@@ -7,5 +7,6 @@ Integrantes
 Thiago Castro de Oliveira - 1903786    
 Ewerson da Silva  de Oliveira - 1902782  
 Giovanna Castilho Nogueira - 1904131  
+Vinicius Venancio Martins - 1904243  
 
 
