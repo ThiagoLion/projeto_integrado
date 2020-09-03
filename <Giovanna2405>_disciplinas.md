@@ -1,0 +1,5 @@
+DevOps - Ambiente de desenvolvimento e operações com o auxilio de ferramentas como o próprio GITHUB esta nos ajudando com a organização e comunicação interna do projeto, tornando o processo de documentação mais seguro e rápido.
+SIG - Sistemas integrados de gestão é a facilitação e integração de vários sistemas, com a intenção de tornar os processos mais funcionais, com a união de várias solução a movimentação de dados se torna mais rápida e abrangente.
+ES - Engenharia de software envolve bastante coisa, durante o projeto integrado estamos estudando mais a parte de gestão, qualidade, e produtividade. Temas como pesquisa de satisfação, diagramas de UML e processos unificados dão fundamento o projeto.
+AED - Análise exploratória de dados nos da a possibilidade de um desenvolvimento mais visual, quando extraímos informações relevantes de de um conjunto de dados, podemos ver por outra perspectiva.
+GEP - Gestão estratégica de pessoas tem um objetivo maior de nos desenvolver com relações corporativas, aprendemos a nos motivar, a lidar com variados tipos de gestores entre outras coisas necessárias para uma boa convivência dentro da instituição.
